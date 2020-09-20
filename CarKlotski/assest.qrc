@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/menu_bg.png</file>
+        <file>image/bg_mmenu.png</file>
+        <file>image/options_btn_HL_Crazy.png</file>
+        <file>image/options_btn_HL_Exit.png</file>
+        <file>image/options_btn_HL_Start.png</file>
+        <file>image/levelSelection.png</file>
+        <file>image/background.png</file>
+        <file>image/car121.png</file>
+        <file>image/car122.png</file>
+        <file>image/car123.png</file>
+        <file>image/car124.png</file>
+        <file>image/car125.png</file>
+        <file>image/car131.png</file>
+        <file>image/car132.png</file>
+        <file>image/car211.png</file>
+        <file>image/car212.png</file>
+        <file>image/car213.png</file>
+        <file>image/car214.png</file>
+        <file>image/car215.png</file>
+        <file>image/car311.png</file>
+        <file>image/car312.png</file>
+        <file>image/target.png</file>
+        <file>image/completeBack.png</file>
+        <file>image/nextLevel.png</file>
+        <file>image/resetLevel.png</file>
+        <file>image/huckit.png</file>
+        <file>image/mainmenu.png</file>
+        <file>image/restart.png</file>
+        <file>image/buttonFram.png</file>
+    </qresource>
+</RCC>
